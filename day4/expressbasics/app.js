@@ -18,7 +18,7 @@ app.get('/hellowrold',(req,res)=>{
 })
 
 
-app.get('/chages',(req,res)=>{
+app.get('/changes',(req,res)=>{
     res.send("hellowrold")
 })
 app.listen(8080,()=>{
